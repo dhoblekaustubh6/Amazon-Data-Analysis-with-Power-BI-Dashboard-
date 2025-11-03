@@ -22,3 +22,8 @@ The goal of this project is to:
 ---
 
 ## 📁 Project Structure
+project-folder/
+│── data/ # Dataset files
+│── sql/ # SQL scripts
+│── dashboard/ # Power BI file (.pbix)
+│── README.md
