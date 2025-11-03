@@ -20,10 +20,3 @@ The goal of this project is to:
 | Excel / CSV | Source Dataset |
 
 ---
-
-## 📁 Project Structure
-project-folder/
-│── data/ # Dataset files
-│── sql/ # SQL scripts
-│── dashboard/ # Power BI file (.pbix)
-│── README.md
